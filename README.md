@@ -1,0 +1,2 @@
+# adasm
+ok
